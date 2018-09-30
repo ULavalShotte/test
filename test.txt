@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test1 breanche1
-=======
-test1
->>>>>>> parent of 1989129... je commit un fuck
+test2 je fait un fuck
